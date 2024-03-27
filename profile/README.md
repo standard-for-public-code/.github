@@ -1,0 +1,1 @@
+The Standard for Public Code - a model for public organizations to build their own open source solutions to enable successful future reuse by and collaboration with similar public organizations in other places. 
