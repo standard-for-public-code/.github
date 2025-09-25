@@ -22,13 +22,12 @@ Alternatively, come say hello on our [discussion board][url]https://github.com/s
 
 ## Who's using the Standard for Public Code
 
-There are currently no codebases which chave been assessed by the [Foundation for Public Code](https://standard-compliant.publiccode.net/#public-commitment) as meeting all of the criteria of the [Standard for Public Code](https://standard.publiccode.net/).
+We're currently not aware of any codebases that meet all of the criteria of the [Standard for Public Code](https://standard.publiccode.net/).
 
 ### Public commitment
 
 The following codebases have made a public commitment to meet the Standard for Public Code:
 
-* [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard)
 * [Algoritmeregister standard](https://github.com/Algoritmeregister/standard#standard-for-public-code-compliance)
 * [DataDiode](https://github.com/CyberInnovationHub-NLD/OpenSourceDataDiode#standard-for-public-code)
 * [Governance game](https://github.com/publiccodenet/governance-game#contributing)
@@ -38,5 +37,6 @@ The following codebases have made a public commitment to meet the Standard for P
 * [OpenForms](https://github.com/open-formulieren/open-forms/blob/master/CONTRIBUTING.md)
 * [OpenZaak](https://github.com/open-zaak/open-zaak/blob/main/CONTRIBUTING.md)
 * [Signalen BackEnd](https://github.com/Amsterdam/signals/blob/master/docs/CONTRIBUTING.md)
+* [Standard for Public Code](https://github.com/publiccodenet/standard#help-improve-this-standard) (the Standard for Public Code community aims for the Standard itself to be as compliant as possible)
 
-We'd love to hear from you if your organization is using the Standard. Please create a PR if your organization should be on this list, or start a discussion or join a community call.
+We'd like to hear from you if your organization is using the Standard. Please create a PR if your organization should be on this list, or start a discussion or join a community call.
