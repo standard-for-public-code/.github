@@ -6,7 +6,7 @@ The Standard for Public Code is a set of criteria that supports public organizat
 
 The Standard for Public Code provides guidance to public organizations seeking to successfully collaborate on open source solutions with similar organizations in other places.
 
-You can find the latest version of thestandard on [our website](https://www.standardforpubliccode.org/), download it as a pdf, and access community tips and resources about how to [implement it](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
+You can find the latest version of the standard on [our website](https://www.standardforpubliccode.org/), download it as a pdf, and access community tips and resources about how to [implement it](https://standard-for-public-code.github.io/community-implementation-guide-standard/).
 
 ## Translated 
 
